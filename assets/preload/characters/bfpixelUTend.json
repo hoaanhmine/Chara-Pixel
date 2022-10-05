@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				0
+			],
+			"fps": 8,
+			"anim": "idle",
+			"indices": [],
+			"name": "boyfriend idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 8,
+			"name": "boyfriend left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 8,
+			"name": "boyfriend up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 8,
+			"name": "boyfriend right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 8,
+			"name": "boyfriend down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "boyfriend hey",
+			"fps": 8,
+			"name": "boyfriend hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "boyfriend hurt",
+			"fps": 14,
+			"name": "boyfriend hurt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "boyfriend dies1",
+			"fps": 8,
+			"name": "boyfriend dies1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "boyfriend diesmic",
+			"fps": 8,
+			"name": "boyfriend diesmic",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "boyfriend diesmic2",
+			"fps": 1,
+			"name": "boyfriend diesmic2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				302
+			],
+			"anim": "singUPmiss",
+			"fps": 18,
+			"name": "boyfriend miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				302
+			],
+			"anim": "singLEFTmiss",
+			"fps": 18,
+			"name": "boyfriend miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				302
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 18,
+			"name": "boyfriend miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				302
+			],
+			"anim": "singDOWNmiss",
+			"fps": 18,
+			"name": "boyfriend miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/boyfriendUTend",
+	"position": [
+		0,
+		290
+	],
+	"healthicon": "bficon",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		229,
+		0
+	],
+	"camera_position": [
+		170,
+		-140
+	],
+	"sing_duration": 9,
+	"scale": 8.2
+}

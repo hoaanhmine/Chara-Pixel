@@ -1,0 +1,11 @@
+{
+	"idle_anim": "boyfriend idle",
+	"image": "menu_bfbattle",
+	"position": [
+		-141,
+		-150
+	],
+	"flipX": false,
+	"scale": 4.69999999999999,
+	"confirm_anim": "boyfriend hurt"
+}

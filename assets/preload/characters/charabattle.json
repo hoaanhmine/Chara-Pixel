@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 8,
+			"anim": "idle",
+			"indices": [],
+			"name": "chara idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 8,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "chara right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 8,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "chara left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 8,
+			"anim": "chara save",
+			"indices": [],
+			"name": "chara save"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				0
+			],
+			"fps": 15,
+			"anim": "chara menacing",
+			"indices": [],
+			"name": "chara menacing"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 8,
+			"anim": "singUP",
+			"indices": [],
+			"name": "chara up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 8,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "chara down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "chara attack",
+			"fps": 20,
+			"name": "chara attack",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/charabattle",
+	"position": [
+		130,
+		270
+	],
+	"healthicon": "charaicon",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		35,
+		19
+	],
+	"camera_position": [
+		-310,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 4.10000000000001
+}

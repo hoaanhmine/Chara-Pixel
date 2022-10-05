@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Megalo Strike Back",
+			"chara",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "bgchara",
+	"difficulties": "",
+	"weekCharacters": [
+		"charamenu",
+		"menu_bfbattle",
+		"menu_gfbattle"
+	],
+	"storyName": "the first human",
+	"weekName": "chara",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

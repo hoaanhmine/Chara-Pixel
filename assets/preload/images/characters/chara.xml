@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="senpai.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+<SubTexture name="chara attack0000" x="0" y="0" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara attack0001" x="57" y="0" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara attack0002" x="114" y="0" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara attack0003" x="171" y="0" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara attack0004" x="228" y="0" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara attack0005" x="0" y="57" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara attack0006" x="57" y="57" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara attack0007" x="57" y="57" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara attack0008" x="57" y="57" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara attack0009" x="57" y="57" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara attack0010" x="57" y="57" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara attack0011" x="57" y="57" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara save0000" x="114" y="57" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara save0001" x="171" y="57" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara save0002" x="228" y="57" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara save0003" x="0" y="114" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara save0004" x="57" y="114" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara save0005" x="114" y="114" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara save0006" x="171" y="114" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara save0007" x="171" y="114" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara menacing0000" x="228" y="114" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara menacing0001" x="0" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara menacing0002" x="57" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara menacing0003" x="114" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara menacing0004" x="228" y="114" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara menacing0005" x="0" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara menacing0006" x="57" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara menacing0007" x="114" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara menacing0008" x="228" y="114" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara menacing0009" x="0" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara menacing0010" x="57" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara menacing0011" x="114" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara menacing0012" x="228" y="114" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara menacing0013" x="0" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara menacing0014" x="57" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara menacing0015" x="114" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara down0000" x="171" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara down0001" x="228" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara idle0000" x="0" y="228" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara idle0001" x="57" y="228" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara idle0002" x="114" y="228" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara idle0003" x="171" y="228" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara left0000" x="228" y="228" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara left0001" x="0" y="285" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara right0000" x="57" y="285" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara right0001" x="114" y="285" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara up0000" x="171" y="285" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="chara up0001" x="228" y="285" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara menacing0000" x="528" y="114" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara menacing0001" x="300" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara menacing0002" x="357" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara menacing0003" x="414" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara menacing0004" x="528" y="114" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara menacing0005" x="300" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara menacing0006" x="357" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara menacing0007" x="414" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara menacing0008" x="528" y="114" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara menacing0009" x="300" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara menacing0010" x="357" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara menacing0011" x="414" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara menacing0012" x="528" y="114" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara menacing0013" x="300" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara menacing0014" x="357" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara menacing0015" x="414" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara down0000" x="471" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara down0001" x="528" y="171" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara idle0000" x="300" y="228" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara idle0001" x="357" y="228" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara idle0002" x="414" y="228" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara idle0003" x="471" y="228" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara left0000" x="528" y="228" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara left0001" x="300" y="285" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara right0000" x="357" y="285" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara right0001" x="414" y="285" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara up0000" x="471" y="285" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara up0001" x="528" y="285" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara attack0000" x="0" y="0" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara attack0001" x="57" y="0" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara attack0002" x="114" y="0" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara attack0003" x="171" y="0" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara attack0004" x="228" y="0" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara attack0005" x="0" y="57" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara attack0006" x="57" y="57" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara attack0007" x="57" y="57" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara attack0008" x="57" y="57" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara attack0009" x="57" y="57" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara attack0010" x="57" y="57" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="angry chara attack0011" x="57" y="57" width="57" height="57" frameX="0" frameY="0" frameWidth="57" frameHeight="57" />
+</TextureAtlas>

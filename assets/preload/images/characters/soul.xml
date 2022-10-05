@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf dies.png">
+<SubTexture name="bf dies soul shatters0000" x="5088" y="837" width="16" height="16" frameX="-223" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0001" x="5088" y="837" width="16" height="16" frameX="-223" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0002" x="5088" y="837" width="16" height="16" frameX="-223" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0003" x="5088" y="837" width="16" height="16" frameX="-223" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0004" x="5088" y="837" width="16" height="16" frameX="-223" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0005" x="5088" y="837" width="16" height="16" frameX="-223" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0006" x="5088" y="837" width="16" height="16" frameX="-223" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0007" x="5088" y="837" width="16" height="16" frameX="-223" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0008" x="5088" y="837" width="16" height="16" frameX="-223" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0009" x="5088" y="837" width="16" height="16" frameX="-223" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0010" x="5088" y="837" width="16" height="16" frameX="-223" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0011" x="5088" y="837" width="16" height="16" frameX="-223" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0012" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0013" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0014" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0015" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0016" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0017" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0018" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0019" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0020" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0021" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0022" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0023" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0024" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0025" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0026" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0027" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0028" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0029" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0030" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0031" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0032" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0033" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0034" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0035" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0036" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0037" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0038" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0039" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0040" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0041" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0042" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0043" x="5104" y="837" width="20" height="16" frameX="-221" frameY="-150" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0044" x="4392" y="0" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0045" x="4392" y="398" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0046" x="4392" y="796" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0047" x="4392" y="1194" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0048" x="4392" y="1592" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0049" x="4392" y="1990" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0050" x="4392" y="2388" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0051" x="4392" y="2786" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0052" x="4392" y="3184" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0053" x="4392" y="3582" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0054" x="0" y="4000" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0055" x="348" y="4000" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0056" x="696" y="4000" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0057" x="1044" y="4000" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0058" x="1392" y="4000" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0059" x="1740" y="4000" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0060" x="2088" y="4000" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0061" x="2436" y="4000" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0062" x="2784" y="4000" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0063" x="3132" y="4000" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0064" x="3480" y="4000" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0065" x="3828" y="4000" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0066" x="4176" y="4000" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0067" x="4740" y="0" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0068" x="4740" y="398" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0069" x="4740" y="796" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0070" x="4740" y="1194" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0071" x="4740" y="1592" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0072" x="4740" y="1990" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0073" x="4740" y="2388" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0074" x="4740" y="2786" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0075" x="4740" y="3184" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0076" x="4740" y="3582" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0077" x="4740" y="3980" width="348" height="398" frameX="0" frameY="0" frameWidth="348" frameHeight="398" />
+<SubTexture name="bf dies soul shatters0078" x="5124" y="837" width="6" height="8" frameX="0" frameY="0" frameWidth="6" frameHeight="8" />
+<SubTexture name="bf dies soul shatters0079" x="5124" y="837" width="6" height="8" frameX="0" frameY="0" frameWidth="6" frameHeight="8" />
+<SubTexture name="bf dies soul shatters0080" x="5124" y="837" width="6" height="8" frameX="0" frameY="0" frameWidth="6" frameHeight="8" />
+<SubTexture name="bf dies soul shatters0081" x="5124" y="837" width="6" height="8" frameX="0" frameY="0" frameWidth="6" frameHeight="8" />
+<SubTexture name="bf dies soul shatters0082" x="5124" y="837" width="6" height="8" frameX="0" frameY="0" frameWidth="6" frameHeight="8" />
+<SubTexture name="bf dies soul shatters0083" x="5124" y="837" width="6" height="8" frameX="0" frameY="0" frameWidth="6" frameHeight="8" />
+<SubTexture name="bf dies soul shatters0084" x="5124" y="837" width="6" height="8" frameX="0" frameY="0" frameWidth="6" frameHeight="8" />
+<SubTexture name="bf dies soul shatters0085" x="5124" y="837" width="6" height="8" frameX="0" frameY="0" frameWidth="6" frameHeight="8" />
+<SubTexture name="bf dies soul shatters0086" x="5124" y="837" width="6" height="8" frameX="0" frameY="0" frameWidth="6" frameHeight="8" />
+<SubTexture name="bf dies soul shatters1000" x="0" y="4398" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1001" x="549" y="4398" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1002" x="1098" y="4398" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1003" x="1647" y="4398" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1004" x="2196" y="4398" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1005" x="2745" y="4398" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1006" x="3294" y="4398" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1007" x="3843" y="4398" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1008" x="4392" y="4398" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1009" x="0" y="4677" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1010" x="549" y="4677" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1011" x="1098" y="4677" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1012" x="1647" y="4677" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1013" x="2196" y="4677" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1014" x="2745" y="4677" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1015" x="3294" y="4677" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1016" x="3843" y="4677" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1017" x="4392" y="4677" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1018" x="5088" y="0" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1019" x="5088" y="279" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1020" x="5088" y="558" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1021" x="5088" y="558" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1022" x="5088" y="558" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1023" x="5088" y="558" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1024" x="5088" y="558" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1025" x="5088" y="558" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1026" x="5088" y="558" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1027" x="5088" y="558" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1028" x="5088" y="558" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1029" x="5088" y="558" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1030" x="5088" y="558" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1031" x="5088" y="558" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters1032" x="5088" y="558" width="549" height="279" frameX="0" frameY="0" frameWidth="549" frameHeight="279" />
+<SubTexture name="bf dies soul shatters2000" x="0" y="0" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2001" x="549" y="0" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2002" x="0" y="400" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2003" x="549" y="400" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2004" x="1098" y="0" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2005" x="1098" y="400" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2006" x="0" y="800" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2007" x="549" y="800" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2008" x="1098" y="800" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2009" x="0" y="1200" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2010" x="549" y="1200" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2011" x="1098" y="1200" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2012" x="1647" y="0" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2013" x="1647" y="400" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2014" x="1647" y="800" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2015" x="1647" y="1200" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2016" x="0" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2017" x="549" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2018" x="1098" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2019" x="1647" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2020" x="2196" y="0" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2021" x="2196" y="400" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2022" x="2196" y="800" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2023" x="2196" y="1200" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2024" x="2196" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2025" x="0" y="2000" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2026" x="0" y="2000" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2027" x="0" y="2000" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2028" x="0" y="2000" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2029" x="0" y="2000" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2030" x="0" y="2000" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2031" x="0" y="2000" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2032" x="0" y="2000" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2033" x="0" y="2000" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2034" x="0" y="2000" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2035" x="0" y="2000" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2036" x="0" y="2000" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2037" x="0" y="2000" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2038" x="0" y="2000" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2039" x="0" y="2000" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2040" x="0" y="2000" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2041" x="0" y="2000" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2042" x="0" y="2000" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2043" x="0" y="2000" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters2044" x="0" y="2000" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3000" x="0" y="0" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3001" x="549" y="2000" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3002" x="1098" y="2000" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3003" x="1647" y="2000" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3004" x="2196" y="2000" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3005" x="2745" y="0" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3006" x="2745" y="400" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3007" x="2745" y="800" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3008" x="2745" y="1200" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3009" x="2745" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3010" x="2745" y="2000" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3011" x="0" y="2400" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3012" x="549" y="2400" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3013" x="1098" y="2400" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3014" x="1647" y="2400" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3015" x="2196" y="2400" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3016" x="2745" y="2400" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3017" x="0" y="2800" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3018" x="549" y="2800" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3019" x="1098" y="2800" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3020" x="1647" y="2800" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3021" x="2196" y="2800" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3022" x="2745" y="2800" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3023" x="3294" y="0" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3024" x="3294" y="400" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3025" x="3294" y="800" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3026" x="3294" y="1200" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3027" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3028" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3029" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3030" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3031" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3032" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3033" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3034" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3035" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3036" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3037" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3038" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3039" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3040" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3041" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3042" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3043" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies soul shatters3044" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverLoop0000" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverLoop0001" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverLoop0002" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverLoop0003" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverLoop0004" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverLoop0005" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0000" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0001" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0002" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0003" x="3294" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0004" x="3294" y="2000" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0005" x="3294" y="2400" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0006" x="3294" y="2800" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0007" x="0" y="3200" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0008" x="549" y="3200" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0009" x="1098" y="3200" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0010" x="1647" y="3200" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0011" x="2196" y="3200" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0012" x="2745" y="3200" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0013" x="3294" y="3200" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0014" x="3843" y="0" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0015" x="3843" y="400" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0016" x="3843" y="800" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0017" x="3843" y="1200" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0018" x="3843" y="1600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0019" x="3843" y="2000" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0020" x="3843" y="2400" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0021" x="3843" y="2800" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0022" x="3843" y="3200" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0023" x="0" y="3600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0024" x="549" y="3600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0025" x="1098" y="3600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0026" x="1647" y="3600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0027" x="2196" y="3600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0028" x="2745" y="3600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0029" x="3294" y="3600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0030" x="3843" y="3600" width="549" height="400" frameX="0" frameY="0" frameWidth="549" frameHeight="400" />
+<SubTexture name="bf dies gameoverFade0031" x="5124" y="837" width="6" height="8" frameX="0" frameY="0" frameWidth="6" frameHeight="8" />
+<SubTexture name="bf dies gameoverFade0032" x="5124" y="837" width="6" height="8" frameX="0" frameY="0" frameWidth="6" frameHeight="8" />
+<SubTexture name="bf dies gameoverFade0033" x="5124" y="837" width="6" height="8" frameX="0" frameY="0" frameWidth="6" frameHeight="8" />
+<SubTexture name="bf dies gameoverFade0034" x="5124" y="837" width="6" height="8" frameX="0" frameY="0" frameWidth="6" frameHeight="8" />
+<SubTexture name="bf dies gameoverFade0035" x="5124" y="837" width="6" height="8" frameX="0" frameY="0" frameWidth="6" frameHeight="8" />
+<SubTexture name="bf dies gameoverFade0036" x="5124" y="837" width="6" height="8" frameX="0" frameY="0" frameWidth="6" frameHeight="8" />
+<SubTexture name="bf dies gameoverFade0037" x="5124" y="837" width="6" height="8" frameX="0" frameY="0" frameWidth="6" frameHeight="8" />
+</TextureAtlas>

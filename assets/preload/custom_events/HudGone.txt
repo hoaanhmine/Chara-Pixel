@@ -1,0 +1,3 @@
+makes hud disappear (start activates stop deactivates)
+
+Value 1: start or stop

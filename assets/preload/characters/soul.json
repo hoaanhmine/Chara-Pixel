@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				190,
+				-15
+			],
+			"anim": "deathLoop",
+			"fps": 8,
+			"name": "bf dies gameoverLoop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				-15
+			],
+			"anim": "deathConfirm",
+			"fps": 13,
+			"name": "bf dies gameoverFade",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				-15
+			],
+			"anim": "firstDeath",
+			"fps": 20,
+			"name": "bf dies soul shatters",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/soul",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-390,
+		-520
+	],
+	"sing_duration": 4,
+	"scale": 1.7
+}

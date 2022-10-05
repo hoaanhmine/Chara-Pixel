@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="soul.png"><SubTexture name="soul firstDeath0000" x="1251" y="0" width="186" height="176" frameX="-258" frameY="-273" frameWidth="720" frameHeight="720" />
+<SubTexture name="soul firstDeath0001" x="697" y="720" width="284" height="288" frameX="-196" frameY="-205" frameWidth="720" frameHeight="720" />
+<SubTexture name="soul firstDeath0002" x="0" y="720" width="372" height="430" frameX="-184" frameY="-133" frameWidth="720" frameHeight="720" />
+<SubTexture name="soul firstDeath0003" x="720" y="0" width="531" height="600" frameX="-101" frameY="-42" frameWidth="720" frameHeight="720" />
+<SubTexture name="soul firstDeath0004" x="372" y="720" width="325" height="338" frameX="-179" frameY="-194" frameWidth="720" frameHeight="720" />
+<SubTexture name="soul firstDeath0005" x="1251" y="476" width="117" height="141" frameX="-302" frameY="-394" frameWidth="720" frameHeight="720" />
+<SubTexture name="soul firstDeath0006" x="0" y="0" width="720" height="720" frameX="0" frameY="0" frameWidth="720" frameHeight="720" />
+<SubTexture name="soul firstDeath0007" x="0" y="0" width="720" height="720" frameX="0" frameY="0" frameWidth="720" frameHeight="720" />
+<SubTexture name="soul deathLoop0000" x="981" y="720" width="184" height="194" frameX="-237" frameY="-243" frameWidth="720" frameHeight="720" />
+<SubTexture name="soul deathLoop0001" x="1251" y="176" width="144" height="150" frameX="-263" frameY="-268" frameWidth="720" frameHeight="720" />
+<SubTexture name="soul deathConfirm0000" x="981" y="720" width="184" height="194" frameX="-237" frameY="-243" frameWidth="720" frameHeight="720" />
+<SubTexture name="soul deathConfirm0001" x="1251" y="326" width="144" height="150" frameX="-263" frameY="-268" frameWidth="720" frameHeight="720" />
+<SubTexture name="soul deathConfirm0002" x="1368" y="476" width="64" height="69" frameX="-301" frameY="-308" frameWidth="720" frameHeight="720" />
+<SubTexture name="soul deathConfirm0003" x="1395" y="176" width="31" height="30" frameX="-318" frameY="-327" frameWidth="720" frameHeight="720" />
+<SubTexture name="soul deathConfirm0004" x="1395" y="206" width="12" height="14" frameX="-329" frameY="-337" frameWidth="720" frameHeight="720" />
+<SubTexture name="soul deathConfirm0005" x="0" y="0" width="720" height="720" frameX="0" frameY="0" frameWidth="720" frameHeight="720" />
+<SubTexture name="soul deathConfirm0006" x="0" y="0" width="720" height="720" frameX="0" frameY="0" frameWidth="720" frameHeight="720" />
+<SubTexture name="soul deathConfirm0007" x="0" y="0" width="720" height="720" frameX="0" frameY="0" frameWidth="720" frameHeight="720" />
+<SubTexture name="soul deathConfirm0008" x="0" y="0" width="720" height="720" frameX="0" frameY="0" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

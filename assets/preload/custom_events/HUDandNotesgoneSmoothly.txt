@@ -1,0 +1,4 @@
+makes HUD and arrows go bye bye, 
+value 2 is irrelevant dont use it
+
+Value 1: type "start" to get rid of HUD "stop" to bring HUD back

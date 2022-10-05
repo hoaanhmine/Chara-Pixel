@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				7,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 8,
+			"name": "boyfriend idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "boyfriend left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "singUP",
+			"indices": [],
+			"name": "boyfriend up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "boyfriend right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "boyfriend down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "boyfriend hey",
+			"indices": [],
+			"name": "boyfriend hey"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "boyfriend hurt",
+			"indices": [],
+			"name": "boyfriend hurt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "boyfriend dies1",
+			"indices": [],
+			"name": "boyfriend dies1"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "boyfriend dies2",
+			"indices": [],
+			"name": "boyfriend dies2"
+		},
+		{
+			"offsets": [
+				151,
+				302
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "boyfriend miss"
+		},
+		{
+			"offsets": [
+				151,
+				302
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "boyfriend miss"
+		},
+		{
+			"offsets": [
+				151,
+				302
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "boyfriend miss"
+		},
+		{
+			"offsets": [
+				151,
+				302
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "boyfriend miss"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bfflip",
+	"position": [
+		0,
+		290
+	],
+	"healthicon": "bf-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		229,
+		0
+	],
+	"camera_position": [
+		170,
+		-140
+	],
+	"sing_duration": 4,
+	"scale": 8.2
+}

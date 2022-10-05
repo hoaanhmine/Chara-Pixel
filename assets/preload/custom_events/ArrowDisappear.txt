@@ -1,0 +1,9 @@
+Makes arrows appear and disappear
+Value 1: How many seconds to fade in 
+Value 2: How Invisible
+
+----------
+
+Hace que las flechas aparezcan y desaparezcan
+Valor 1: cuántos segundos para desvanecerse
+Valor 2: Cuán invisible

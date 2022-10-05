@@ -1,0 +1,608 @@
+{
+	"song": {
+		"events": [
+			[
+				13854.1666666667,
+				[
+					[
+						"Play Animation",
+						"chara attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				13958.3333333333,
+				[
+					[
+						"Play Sound",
+						"slash",
+						"1"
+					]
+				]
+			],
+			[
+				14166.6666666667,
+				[
+					[
+						"Drain",
+						"0.15",
+						""
+					]
+				]
+			],
+			[
+				14201.3888888889,
+				[
+					[
+						"Play Animation",
+						"boyfriend hurt",
+						"BF"
+					]
+				]
+			],
+			[
+				15520.8333333333,
+				[
+					[
+						"Play Animation",
+						"chara attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				15625,
+				[
+					[
+						"Play Sound",
+						"slash",
+						"1"
+					]
+				]
+			],
+			[
+				15833.3333333333,
+				[
+					[
+						"Drain",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				15868.0555555556,
+				[
+					[
+						"Play Animation",
+						"boyfriend hurt",
+						"BF"
+					]
+				]
+			],
+			[
+				17187.5,
+				[
+					[
+						"Play Animation",
+						"chara attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				17291.6666666667,
+				[
+					[
+						"Play Sound",
+						"slash",
+						"1"
+					]
+				]
+			],
+			[
+				17500,
+				[
+					[
+						"Drain",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				17534.7222222222,
+				[
+					[
+						"Play Animation",
+						"boyfriend hurt",
+						"BF"
+					]
+				]
+			],
+			[
+				20520.8333333333,
+				[
+					[
+						"Play Animation",
+						"chara attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				20625,
+				[
+					[
+						"Play Sound",
+						"slash",
+						"1"
+					]
+				]
+			],
+			[
+				20833.3333333333,
+				[
+					[
+						"Drain",
+						"0.25",
+						""
+					]
+				]
+			],
+			[
+				20868.0555555556,
+				[
+					[
+						"Play Animation",
+						"boyfriend hurt",
+						"BF"
+					]
+				]
+			],
+			[
+				22187.5,
+				[
+					[
+						"Play Animation",
+						"chara attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				22291.6666666667,
+				[
+					[
+						"Play Sound",
+						"slash",
+						"1"
+					]
+				]
+			],
+			[
+				22500,
+				[
+					[
+						"Drain",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				22534.7222222222,
+				[
+					[
+						"Play Animation",
+						"boyfriend hurt",
+						"BF"
+					]
+				]
+			],
+			[
+				23854.1666666667,
+				[
+					[
+						"Play Animation",
+						"chara attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				23958.3333333333,
+				[
+					[
+						"Play Sound",
+						"slash",
+						"1"
+					]
+				]
+			],
+			[
+				24166.6666666667,
+				[
+					[
+						"Drain",
+						"0.35",
+						""
+					]
+				]
+			],
+			[
+				24201.3888888889,
+				[
+					[
+						"Play Animation",
+						"boyfriend hurt",
+						"BF"
+					]
+				]
+			],
+			[
+				25520.8333333333,
+				[
+					[
+						"Play Animation",
+						"chara attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				25625,
+				[
+					[
+						"Play Sound",
+						"slash",
+						"1"
+					]
+				]
+			],
+			[
+				25833.3333333333,
+				[
+					[
+						"Drain",
+						"0.4",
+						""
+					]
+				],
+				null,
+				"No Animation"
+			],
+			[
+				25868.0555555556,
+				[
+					[
+						"Play Animation",
+						"boyfriend hurt",
+						"BF"
+					]
+				]
+			],
+			[
+				54270.8333333333,
+				[
+					[
+						"Play Animation",
+						"chara attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				54375,
+				[
+					[
+						"Play Sound",
+						"slash",
+						"1"
+					]
+				]
+			],
+			[
+				54583.3333333333,
+				[
+					[
+						"Play Animation",
+						"boyfriend hurt",
+						"BF"
+					]
+				]
+			],
+			[
+				54618.0555555555,
+				[
+					[
+						"Drain",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				55937.5,
+				[
+					[
+						"Play Animation",
+						"chara attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				55963.5416666666,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				55989.5833333333,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				56015.625,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				56041.6666666666,
+				[
+					[
+						"Play Sound",
+						"slash",
+						"1"
+					]
+				]
+			],
+			[
+				56067.7083333333,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				56093.75,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				56119.7916666666,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				56145.8333333333,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				56171.875,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				56197.9166666666,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				56223.9583333333,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				56250,
+				[
+					[
+						"Play Animation",
+						"boyfriend hurt",
+						"BF"
+					]
+				]
+			],
+			[
+				56284.7222222222,
+				[
+					[
+						"Drain",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				60833.3333333333,
+				[
+					[
+						"Image Flash",
+						"glitch1",
+						"0.2"
+					]
+				]
+			],
+			[
+				62500,
+				[
+					[
+						"Image Flash",
+						"glitch2",
+						"0.2"
+					]
+				]
+			],
+			[
+				64166.6666666666,
+				[
+					[
+						"Image Flash",
+						"glitch3",
+						"0.2"
+					]
+				]
+			],
+			[
+				65833.3333333333,
+				[
+					[
+						"Image Flash",
+						"glitch4",
+						"0.2"
+					]
+				]
+			],
+			[
+				67500,
+				[
+					[
+						"Image Flash",
+						"glitch5",
+						"0.2"
+					]
+				]
+			],
+			[
+				69166.6666666666,
+				[
+					[
+						"Image Flash",
+						"glitch6",
+						"0.2"
+					]
+				]
+			],
+			[
+				70833.3333333333,
+				[
+					[
+						"Image Flash",
+						"glitch7",
+						"0.2"
+					]
+				]
+			],
+			[
+				72500,
+				[
+					[
+						"Image Flash",
+						"glitch8",
+						"0.2"
+					]
+				]
+			],
+			[
+				74166.6666666666,
+				[
+					[
+						"Image Flash",
+						"glitch9",
+						"0.2"
+					]
+				]
+			],
+			[
+				75833.3333333333,
+				[
+					[
+						"Image Flash",
+						"glitch10",
+						"0.2"
+					]
+				]
+			],
+			[
+				77500,
+				[
+					[
+						"Image Flash",
+						"glitch11",
+						"0.2"
+					]
+				]
+			],
+			[
+				79166.6666666667,
+				[
+					[
+						"Image Flash",
+						"glitch12",
+						"0.2"
+					]
+				]
+			],
+			[
+				80833.3333333333,
+				[
+					[
+						"Image Flash",
+						"glitch13",
+						"0.2"
+					]
+				]
+			],
+			[
+				82500,
+				[
+					[
+						"Image Flash",
+						"glitch14",
+						"0.2"
+					]
+				]
+			]
+		]
+	}
+}

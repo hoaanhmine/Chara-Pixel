@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 8,
+			"anim": "idle",
+			"indices": [],
+			"name": "angry chara idle"
+		},
+		{
+			"offsets": [
+				-40,
+				0
+			],
+			"loop": false,
+			"anim": "chara attack",
+			"fps": 12,
+			"name": "chara attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 8,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "angry chara right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 8,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "angry chara left"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 15,
+			"anim": "angry chara menacing",
+			"indices": [],
+			"name": "angry chara menacing"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 8,
+			"anim": "singUP",
+			"indices": [],
+			"name": "angry chara up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 8,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "angry chara down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/chara",
+	"position": [
+		170,
+		370
+	],
+	"healthicon": "charaicon",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		35,
+		19
+	],
+	"camera_position": [
+		-410,
+		-270
+	],
+	"sing_duration": 4,
+	"scale": 8.2
+}

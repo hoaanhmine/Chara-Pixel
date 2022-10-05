@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gf.png">
+<SubTexture name="charamenu0000" x="0" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0001" x="0" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0002" x="0" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0003" x="0" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0004" x="0" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0005" x="0" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0006" x="60" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0007" x="60" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0008" x="60" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0009" x="120" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0010" x="120" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0011" x="180" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0012" x="180" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0013" x="240" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0014" x="240" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0015" x="240" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0016" x="300" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0017" x="300" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0018" x="300" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0019" x="300" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0020" x="300" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0021" x="300" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0022" x="300" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0023" x="240" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0024" x="240" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0025" x="240" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0026" x="180" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0027" x="180" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0028" x="120" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+<SubTexture name="charamenu0029" x="120" y="0" width="61" height="77" frameX="0" frameY="0" frameWidth="61" frameHeight="77" />
+</TextureAtlas>

@@ -1,0 +1,286 @@
+{
+	"song": {
+		"events": [
+			[
+				13854.1666666667,
+				[
+					[
+						"Play Animation",
+						"chara attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				13958.3333333333,
+				[
+					[
+						"Play Sound",
+						"slash",
+						"1"
+					]
+				]
+			],
+			[
+				14166.6666666667,
+				[
+					[
+						"Drain",
+						"0.15",
+						""
+					]
+				]
+			],
+			[
+				14201.3888888889,
+				[
+					[
+						"Play Animation",
+						"boyfrfiend hurt",
+						"BF"
+					]
+				]
+			],
+			[
+				15520.8333333333,
+				[
+					[
+						"Play Animation",
+						"chara attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				15625,
+				[
+					[
+						"Play Sound",
+						"slash",
+						"1"
+					]
+				]
+			],
+			[
+				15833.3333333333,
+				[
+					[
+						"Drain",
+						"0.15",
+						""
+					]
+				]
+			],
+			[
+				15868.0555555556,
+				[
+					[
+						"Play Animation",
+						"boyfrfiend hurt",
+						"BF"
+					]
+				]
+			],
+			[
+				17187.5,
+				[
+					[
+						"Play Animation",
+						"chara attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				17291.6666666667,
+				[
+					[
+						"Play Sound",
+						"slash",
+						"1"
+					]
+				]
+			],
+			[
+				17500,
+				[
+					[
+						"Drain",
+						"0.15",
+						""
+					]
+				]
+			],
+			[
+				17534.7222222222,
+				[
+					[
+						"Play Animation",
+						"boyfrfiend hurt",
+						"BF"
+					]
+				]
+			],
+			[
+				20520.8333333333,
+				[
+					[
+						"Play Animation",
+						"chara attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				20625,
+				[
+					[
+						"Play Sound",
+						"slash",
+						"1"
+					]
+				]
+			],
+			[
+				20833.3333333333,
+				[
+					[
+						"Drain",
+						"0.15",
+						""
+					]
+				]
+			],
+			[
+				20868.0555555556,
+				[
+					[
+						"Play Animation",
+						"boyfrfiend hurt",
+						"BF"
+					]
+				]
+			],
+			[
+				22187.5,
+				[
+					[
+						"Play Animation",
+						"chara attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				22291.6666666667,
+				[
+					[
+						"Play Sound",
+						"slash",
+						"1"
+					]
+				]
+			],
+			[
+				22500,
+				[
+					[
+						"Drain",
+						"0.15",
+						""
+					]
+				]
+			],
+			[
+				22534.7222222222,
+				[
+					[
+						"Play Animation",
+						"boyfrfiend hurt",
+						"BF"
+					]
+				]
+			],
+			[
+				23854.1666666667,
+				[
+					[
+						"Play Animation",
+						"chara attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				23958.3333333333,
+				[
+					[
+						"Play Sound",
+						"slash",
+						"1"
+					]
+				]
+			],
+			[
+				24166.6666666667,
+				[
+					[
+						"Drain",
+						"0.15",
+						""
+					]
+				]
+			],
+			[
+				24201.3888888889,
+				[
+					[
+						"Play Animation",
+						"boyfrfiend hurt",
+						"BF"
+					]
+				]
+			],
+			[
+				25520.8333333333,
+				[
+					[
+						"Play Animation",
+						"chara attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				25625,
+				[
+					[
+						"Play Sound",
+						"slash",
+						"1"
+					]
+				]
+			],
+			[
+				25833.3333333333,
+				[
+					[
+						"Drain",
+						"0.15",
+						""
+					]
+				]
+			],
+			[
+				25868.0555555556,
+				[
+					[
+						"Play Animation",
+						"boyfrfiend hurt",
+						"BF"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "gf Dancing Beat",
+	"position": [
+		-140,
+		-120
+	],
+	"scale": 3.2,
+	"image": "menu_gfbattle",
+	"flipX": false
+}

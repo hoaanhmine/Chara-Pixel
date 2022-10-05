@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 8,
+			"anim": "idle",
+			"indices": [],
+			"name": "chara idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 8,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "chara right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 8,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "chara left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 8,
+			"anim": "singUP",
+			"indices": [],
+			"name": "chara up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 8,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "chara down"
+		},
+		{
+			"offsets": [
+				-8,
+				-7
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "charaload",
+			"indices": [],
+			"name": "charaload"
+		},
+		{
+			"offsets": [
+				-8,
+				-7
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "charasave",
+			"indices": [],
+			"name": "charasave"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/charasave",
+	"position": [
+		430,
+		410
+	],
+	"healthicon": "charaicon",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		35,
+		19
+	],
+	"camera_position": [
+		-980,
+		-430
+	],
+	"sing_duration": 4,
+	"scale": 4.10000000000001
+}
